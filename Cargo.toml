@@ -1,4 +1,4 @@
-[workspace]
+#[workspace]
 members = [
     "block-ciphers/threefish",
     "hashes/blake",

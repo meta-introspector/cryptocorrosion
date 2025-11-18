@@ -8,7 +8,7 @@ description = "Crypto-oriented SIMD wrapper abstracting over multiple backends"
 repository = "https://github.com/cryptocorrosion/cryptocorrosion"
 keywords = ["crypto", "simd"]
 categories = ["cryptography", "no-std"]
-rust-version = "1.61"
+# rust-version = "1.61"
 
 [dependencies]
 packed_simd_crate = { package = "packed_simd", version = "0.3", optional = true }

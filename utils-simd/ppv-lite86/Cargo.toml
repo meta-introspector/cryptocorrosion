@@ -8,7 +8,7 @@ description = "Cross-platform cryptography-oriented low-level SIMD library."
 repository = "https://github.com/cryptocorrosion/cryptocorrosion"
 keywords = ["crypto", "simd", "x86"]
 categories = ["cryptography", "no-std"]
-rust-version = "1.61"
+# rust-version = "1.61"
 
 [dependencies]
 zerocopy = { version = "0.8.23", features = ["simd"] }

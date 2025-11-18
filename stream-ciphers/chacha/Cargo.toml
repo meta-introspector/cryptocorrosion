@@ -10,7 +10,7 @@ keywords = ["chacha", "chacha20", "xchacha20", "cipher", "crypto"]
 categories = ["cryptography", "no-std"]
 readme = "README.md"
 documentation = "https://docs.rs/c2-chacha"
-rust-version = "1.61"
+# rust-version = "1.61"
 
 [dependencies]
 ppv-lite86 = { package = "ppv-lite86", version = "0.2.14", default-features = false }

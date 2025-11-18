@@ -8,7 +8,7 @@ documentation = "https://docs.rs/threefish"
 repository = "https://github.com/cryptocorrosion/cryptocorrosion"
 keywords = ["crypto", "threefish", "gost", "block-cipher"]
 edition = "2021"
-rust-version = "1.61"
+# rust-version = "1.61"
 
 [dependencies]
 cipher = "0.3"
